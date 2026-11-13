@@ -1,0 +1,9 @@
+STUDENT PERFORMANCE PREDICTION - MODEL RESULTS
+================================================
+Training rows: 400
+Testing rows:  100
+
+MAE:  5.02
+MSE:  38.31
+RMSE: 6.19
+R2:   0.843
